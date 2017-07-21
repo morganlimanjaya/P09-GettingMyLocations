@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">P09-GettingMyLocations</string>
+    <string name="title">Last known location when this Activity started</string>
+    <string name="coordinates">Current Coordinates : </string>
+</resources>
